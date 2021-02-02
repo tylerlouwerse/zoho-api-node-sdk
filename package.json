@@ -1,0 +1,22 @@
+{
+  "name": "zoho-api-node-sdk",
+  "version": "1.0.0",
+  "description": "SDK for using various Zoho API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tylerlouwerse/zoho-api-node-sdk.git"
+  },
+  "author": "Tyler Louwerse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerlouwerse/zoho-api-node-sdk/issues"
+  },
+  "homepage": "https://github.com/tylerlouwerse/zoho-api-node-sdk#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}
